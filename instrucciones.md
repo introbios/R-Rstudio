@@ -5,16 +5,18 @@ Primero es necesario instalar R
 ***
 
 
+
 **Para iniciar puede ver el siguiente video** 3:28
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GAGUDL-4aVw">
  <img src="http://img.youtube.com/vi/GAGUDL-4aVw/0.jpg" alt="Install R and RStudio on Windows" width="240" height="180" border="10" />
 </a>
-
+<hr>
 
 **Primer paso: Descargar e instalar R**
 
  <img src="https://cran.rediris.es/Rlogo.svg" alt="R logo" width="100"/>
+ 
  
  1. Ingrese a https://cran.r-project.org/
  2. Haga clic en "*Download R for Windows*"
