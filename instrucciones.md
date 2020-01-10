@@ -13,7 +13,8 @@ Primero es necesario instalar R
 
 
 **Primer paso: Descargar e instalar R**
- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+ <img src="https://cran.rediris.es/Rlogo.svg" alt="R logo" width="100"/>
+ 
  1. Ingrese a https://cran.r-project.org/
  2. Haga clic en "*Download R for Windows*"
  3. Haga clic en "*base*"
