@@ -1,2 +1,2 @@
 # R-windows
-Instrucciones para instalar R en Windows
+Instrucciones para instalar R y Rstudio en Windows
