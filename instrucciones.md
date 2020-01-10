@@ -14,7 +14,7 @@ Primero es necesario instalar R
 
 **Descargar e instalar R**
  
- 1. Ingrese a https://cran.r-project.org/
+ 1. Ingrese a <a href="https://cran.r-project.org/" target="_blank">cran.r-project</a>
  2. Haga clic en "*Download R for Windows*"
  3. Haga clic en "*base*"
  4. Haga clic en "*Download R 3.6.2 for Windows*", esta es la versión más reciente
