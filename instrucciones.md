@@ -7,8 +7,7 @@ Primero es necesario instalar R
 
 **Puede ver el siguiente video** 3:28
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=GAGUDL-4aVw", target="_blank"><img src="http://img.youtube.com/vi/GAGUDL-4aVw/0.jpg" 
-alt="Install R and RStudio on Windows" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GAGUDL-4aVw" target="_blank"><img src="http://img.youtube.com/vi/GAGUDL-4aVw/0.jpg" alt="Install R and RStudio on Windows" width="240" height="180" border="10" /></a>
 
 
 **Descargar e instalar R**
