@@ -47,6 +47,15 @@ Primero es necesario instalar R
     * Haga clic sobre el icono y arrastrelo hasta el dock
 
 
-**Tercer paso: iniciar RStudio**
+**Tercer paso: iniciar R y RStudio**
 
-1. 
+Para iniciar el trabajo con *R* y *Rstudio* solamente es necesario hacer clic sobre el **icono de RStudio**. No es necesario hacer clic sobre el icono de **R**.   
+
+
+**Actualizar R y Rstudio**
+
+Con regularidad R y Rstudio presentan cambios y mejoras en sus aplicaciones, para acceder a ellas es necesario descargar e instalar los nuevos archivos:
+
+   * *Actualizar R:* Ingrese a el sitio web de CRAN https://www.r-project.org/, verifique que una nueva versión está disponible y siga los pasos descritos en la parte uno de esta guía
+   
+   * *Actualizar Rstudio:* Verifique si una nueva versión está disponible haciendo clic en el menu **help>Check for Updates**, cierre Rstudio y siga los pasos descritos en la parte dos de esta guía
