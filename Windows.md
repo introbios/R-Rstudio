@@ -13,7 +13,7 @@ Primero es necesario instalar R
 </a>
 <hr>
 
-**Primer paso: Descargar e instalar R**
+**Primer paso: descargar e instalar R**
 
  <img src="https://cran.rediris.es/Rlogo.svg" alt="R logo" width="100"/>
  
@@ -26,7 +26,7 @@ Primero es necesario instalar R
  6. Durante la instalación un asistente lo guiará a través del proceso, presione el boton "Siguiente" hasta terminar, para la mayoría de usuarios no se recomienda cambiar las opciones por defecto.
  
  
-**Segundo paso: Descargar e instalar RStudio**
+**Segundo paso: descargar e instalar RStudio**
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/320px-RStudio_logo_flat.svg.png" alt="Rstudio logo" width="150"/>
  
@@ -37,3 +37,8 @@ Primero es necesario instalar R
  4. Dependiendo del navegador de Internet que utilice podrá iniciar la instalación presionando el botón "instalar" o necesitará guardar el archivo en su computador y luego de la descarga ejecutarlo para continuar con la instalación.
  5. Durante la instalación un asistente lo guiará a través del proceso, presione el boton "Siguiente" hasta terminar, para la mayoría de usuarios no se recomienda cambiar las opciones por defecto.
  urante la instalación un asistente lo guiará a través del proceso, presione el boton "Siguiente" hasta terminar, para la mayoría de usuarios no se recomienda cambiar las opciones por defecto.
+
+
+**Tercer paso: iniciar RStudio**
+
+1. 
