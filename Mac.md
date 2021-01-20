@@ -38,7 +38,7 @@ Primero es necesario instalar R
  2. Ingrese a https://rstudio.com/
  3. Haga clic en "Download"
  4. Seleccione la versión gratis de escritorio "RStudio Desktop - Free", haga clic en "Download"
- 5. Haga clic en "Download RStudio for MAC 1.3.1093", es la versión más reciente
+ 5. Haga clic en "Download RStudio for MAC 1.4.1103", es la versión más reciente
  6. Guarde el archivo . pkg en su computador 
  7. Localice el archivo descargado, haga doble clic para abrirlo, y siga las instrucciones hasta terminar; para la mayoría de usuarios no se recomienda cambiar las opciones por defecto.
  8. Cree un acceso directo a RStudio en el dock
