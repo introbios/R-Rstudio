@@ -24,7 +24,7 @@ Primero es necesario instalar R
  2. Ingrese a https://cran.r-project.org/
  3. Haga clic en "*Download R for (Mac) OS X*"
  4. Descarge el paquete de instalación
-    * Si su versión de macOS es 10.13 (High Sierra) o superior haga clic en "*R-4.2.1.pkg*", esta es la versión más reciente
+    * Si su versión de macOS es 10.13 (High Sierra) o superior haga clic en "*R-4.2.2.pkg*", esta es la versión más reciente
     * En otro caso, identifique la correspondiente a su versión de macOS en las demás opciones dentro de la página web
  5. Guarde el archivo . pkg en su computador 
  6. Localice el archivo descargado, haga doble clic para abrirlo, y siga las instrucciones hasta terminar; para la mayoría de usuarios no se recomienda cambiar las opciones por defecto.
@@ -34,12 +34,10 @@ Primero es necesario instalar R
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/320px-RStudio_logo_flat.svg.png" alt="Rstudio logo" width="150"/>
  
- 1. Requiere una versión de MacOS 10.12 o superior
- 2. Ingrese a https://rstudio.com/
- 3. Haga clic en "Download"
- 4. Seleccione la versión gratis de escritorio "RStudio Desktop - Free", haga clic en "Download"
- 5. Haga clic en "Download RStudio for MAC 2022.07.1+554", es la versión más reciente
- 6. Guarde el archivo . pkg en su computador 
+ 1. Ingrese a [https://posit.co/downloads/](https://posit.co/downloads/)
+ 2. Haga clic en "Download" dentro del cuadro Rstudio Desktop
+ 3. En el paso 2, haga clic en "Download Rstudio Download for Mac" (versión 2022.07.2+576)
+ 4. Guarde el archivo . pkg en su computador 
  7. Localice el archivo descargado, haga doble clic para abrirlo, y siga las instrucciones hasta terminar; para la mayoría de usuarios no se recomienda cambiar las opciones por defecto.
  8. Cree un acceso directo a RStudio en el dock
     * Abra la carpeta *aplicaciones*
