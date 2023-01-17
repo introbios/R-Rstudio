@@ -36,7 +36,7 @@ Primero es necesario instalar R
  
  1. Ingrese a [https://posit.co/downloads/](https://posit.co/downloads/)
  2. Haga clic en "Download" dentro del cuadro Rstudio Desktop
- 3. En el paso 2, haga clic en "Download Rstudio Download for Mac" (versión 2022.07.2+576)
+ 3. En el paso 2, haga clic en "Download Rstudio Download for Mac" (versión 2022.12.0+353)
  4. Guarde el archivo . pkg en su computador 
  7. Localice el archivo descargado, haga doble clic para abrirlo, y siga las instrucciones hasta terminar; para la mayoría de usuarios no se recomienda cambiar las opciones por defecto.
  8. Cree un acceso directo a RStudio en el dock
