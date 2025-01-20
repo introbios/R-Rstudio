@@ -21,7 +21,7 @@ Primero es necesario instalar R
  1. Ingrese a https://cran.r-project.org/
  2. Haga clic en "*Download R for Windows*"
  3. Haga clic en "*base*"
- 4. Haga clic en "*Download R 4.4.1 for Windows*", esta es la versión más reciente
+ 4. Haga clic en "*Download R 4.4.2 for Windows*", esta es la versión más reciente
  5. Dependiendo del navegador de Internet que utilice podrá iniciar la instalación presionando el botón "instalar" o necesitará guardar el archivo en su computador y luego de la descarga ejecutarlo para continuar con la instalación. 
  6. Durante la instalación un asistente lo guiará a través del proceso, presione el boton "Siguiente" hasta terminar, para la mayoría de usuarios no se recomienda cambiar las opciones por defecto.
  
@@ -32,7 +32,7 @@ Primero es necesario instalar R
  
  1. Ingrese a [https://posit.co/downloads/](https://posit.co/downloads/)
  2. Haga clic en "Download" dentro del cuadro Rstudio Desktop
- 3. En el paso 2, haga clic en "Download Rstudio Download for Windows" (versión 2024.09.0+375)
+ 3. En el paso 2, haga clic en "Download Rstudio Download for Windows" (versión 2024.12.0-467)
  4. Dependiendo del navegador de Internet que utilice podrá iniciar la instalación presionando el botón "instalar" o necesitará guardar el archivo en su computador y luego de la descarga ejecutarlo para continuar con la instalación.
  5. Durante la instalación un asistente lo guiará a través del proceso, presione el boton "Siguiente" hasta terminar, para la mayoría de usuarios no se recomienda cambiar las opciones por defecto.
  urante la instalación un asistente lo guiará a través del proceso, presione el boton "Siguiente" hasta terminar, para la mayoría de usuarios no se recomienda cambiar las opciones por defecto.
